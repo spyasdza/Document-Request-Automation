@@ -1,0 +1,7 @@
+{
+    "port": 993,
+    "server": "imap.gmail.com",
+    "mail_folder": "RequestDocument",
+    "save_folder": "C:/Users/deach/OneDrive/เดสก์ท็อป/testRPA",
+    "payment_url": "https://spreadsheets.google.com/feeds/download/spreadsheets/Export?key=18W5oYoi9IhZh9q2m9F734u1foVc2ztI9flBfyYGGcME&exportFormat=xlsx"
+}
